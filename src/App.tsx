@@ -1,4 +1,3 @@
-import React from 'react';
 import TableClient from './components/Table/TableClient';
 import TableInfinite from './components/Table/TableInfinite';
 import './App.css';
